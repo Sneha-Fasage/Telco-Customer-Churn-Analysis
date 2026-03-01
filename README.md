@@ -21,7 +21,7 @@ The visualizations, including bar plots and line graphs, highlight the disparity
 Python: Python used for coding and build graphs.
 Libraries: Pandas, Numpy, Matplotlib, Seaborn.
 Ms Excel: Used for data processing and cleaning.
-Vs Code: Vs code used for executing python code.
+jupyter notebook: used for executing python code
  
 5. Executive Summary:
 
